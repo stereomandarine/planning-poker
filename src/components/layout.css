@@ -1,0 +1,15 @@
+html,body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  height: 100%;
+  background-color: #eaff63;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#___gatsby {
+  width: 100%;
+}
+
+
+
